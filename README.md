@@ -13,7 +13,7 @@ output in the console window.
 
 - Validations
 - OOP
-- Lesser angle clculation
+- Lesser angle calculation
 
 
 ## Installation and Usage
